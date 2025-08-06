@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    {
+      "keyword": "User",
+      "color": "#000",
+      "backgroundColor": "#ff0000",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "Password",
+      "color": "#000",
+      "backgroundColor": "#ff0000",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "Hash",
+      "color": "#11111b",
+      "backgroundColor": "#ff0000",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    }
+  ]
+}
