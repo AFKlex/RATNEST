@@ -3,5 +3,6 @@
   "livePreview": false,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "vimMode": true
+  "vimMode": true,
+  "attachmentFolderPath": "./assets"
 }
