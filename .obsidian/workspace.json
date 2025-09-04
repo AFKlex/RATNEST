@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,6 +170,7 @@
   },
   "active": "8713aacc922c47b7",
   "lastOpenFiles": [
+    "02 Deliverables/Report/output/main.pdf",
     "01 Admin/Pentest Engagemetn Checklist.md",
     "01 Admin/Test.md",
     "99 templates/Short All-Notes.md",
